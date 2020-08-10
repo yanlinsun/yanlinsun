@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a developer. Develop everything, develop code, develop skills, develop cuisines, develop my life.
+
 <!--
 **yanlinsun/yanlinsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
